@@ -2,8 +2,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 
-int main()
-{
+int main() {
     printf("Starting ...");
     while (1) {
         fork();
