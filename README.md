@@ -1,7 +1,7 @@
 # ForkBomber
 A nuclear bomb for linux systems!
 
-## How to run:
+## How to build:
 `gcc main.c -o bin`
 then
 `./bin`
