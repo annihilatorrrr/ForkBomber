@@ -3,9 +3,9 @@
 #include <unistd.h>
 
 int main() {
-    printf("Starting ...");
-    while (1) {
-        fork();
-    }
-    return 0;
+  printf("Starting ...");
+  while (1) {
+    fork();
+  }
+  return 0;
 }
